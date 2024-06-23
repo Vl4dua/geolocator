@@ -1,0 +1,1 @@
+number = "" #inserisci il numero tra le virgolette e ricorda di mettere il prefisso (+441908233222)
