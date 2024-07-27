@@ -23,7 +23,7 @@ timezone_info = phonenumbers.parse(number, "GB")
 print(timezone.time_zones_for_number(timezone_info))
 
 # Geocoding the location
-key = "bc6df7d0912541b19fb06d55c8171397"
+key = ""
 geocoder = OpenCageGeocode(key)
 query = str(location)
 coordinate = geocoder.geocode(query)
